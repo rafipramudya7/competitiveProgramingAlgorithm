@@ -1,7 +1,9 @@
 # Competitive Programming
 
-arsip  `Pemrograman kompetitif Dasar` dari course TLX `https://tlx.toki.id/courses`. disini tidak ada penjelasan tentang struktur codinganya , jadi hanya sebuah arsip,semoga bermanfaat  😊👍👍
+arsip  `Pemrograman kompetitif Dasar` dari course TLX `https://tlx.toki.id/courses`. disini tidak ada penjelasan tentang struktur codinganya , jadi hanya sebuah arsip walaupun belum selesai challange yang baru 🙃🙃,semoga bermanfaat  😊👍👍
 
+# Info
+![alt text](image.png)
 # Arsip Structure
 ```
 │   README.md
